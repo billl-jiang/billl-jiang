@@ -6,5 +6,3 @@
 - I am doing a research internship at Tencent PCG, where I collaborate closely with Dr. [Xin Chen](https://chenxin.tech/), Dr. [Wen Liu](https://scholar.google.com/citations?user=A6K6bkoAAAAJ), and Dr. [Gang Yu](https://www.skicyyu.org/).
 
 <h4 align="center">🔭 Welcome to visit our new work <a href="https://github.com/OpenMotionLab/MotionGPT">MotionGPT</a>, a <strong>unified</strong> motion-language model on <strong>multiple motion tasks</strong>.</h4>
-
-https://github.com/OpenMotionLab/MotionGPT/assets/120085716/960bf6ed-0cce-4196-8e2c-1a6c5d2aea3a

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biao Jiang (江彪)</h1>
 <h3 align="center">Master student at Fudan University</h3>
 
-- My research interests include **Computer Vision and Computer Graphics**.
+- My research interests include **Computer Vision** and **Computer Graphics**.
 - I'm a first-year graduate student from Fudan University, under the supervision of Prof. [Tao Chen](https://eetchen.github.io/).
 - I obtained my Bachelor's degree from Sun Yat-sen University.
 - I am doing an academic research internship at Tencent PCG, where I collaborate closely with Dr. [Xin Chen](https://chenxin.tech/), Dr. [Wen Liu](https://scholar.google.com/citations?user=A6K6bkoAAAAJ), and Dr. [Gang Yu](https://www.skicyyu.org/).

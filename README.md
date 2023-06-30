@@ -8,3 +8,5 @@
 <h4 align="center">🔭 Welcome to visit our new work <a href="https://github.com/OpenMotionLab/MotionGPT">MotionGPT</a>, a <strong>unified</strong> motion-language model for <strong>multiple motion tasks</strong>.</h4>
 
 https://github.com/OpenMotionLab/MotionGPT/assets/120085716/960bf6ed-0cce-4196-8e2c-1a6c5d2aea3a
+
+<h4 align="center">👐 Our previous work <a href="https://github.com/ChenFengYe/motion-latent-diffusion">Motion-Latent-Diffusion (CVPR 2023)</a>, has been totally released, please also feel free to use.</h4>

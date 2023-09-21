@@ -13,4 +13,4 @@
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | <video src="https://github.com/OpenMotionLab/MotionGPT/assets/120085716/a741e162-b2f4-4f65-af8e-aa19c4115a9e" /> | <video src="https://github.com/OpenMotionLab/MotionGPT/assets/120085716/ae966d17-6326-43e6-8d5b-8562cf3ffd52" /> |
 
-<h4 align="center">👐 Our previous work <a href="https://github.com/ChenFengYe/motion-latent-diffusion">Motion-Latent-Diffusion (CVPR 2023)</a>, has been totally released, please also feel free to use.</h4>
+<h4 align="center">👐 More works can be found on my <a href="biaojiang.tech">Homepage</a>.</h4>

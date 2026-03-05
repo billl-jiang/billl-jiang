@@ -1,7 +1,6 @@
 
 - I am a Ph.D. student in the School of Intelligence Science and Technology at Peking University, advised by Prof. [Libin Liu](https://libliu.info/).
 - My research focuses on human motion modeling, with a particular interest in physics-based and socially interactive humanoid behaviors for virtual agents and embodied agents.
-- Currently, I am also a research intern at Alibaba Tongyi Lab, where I work closely with Dr. Lianghua Huang.
 
 <p align="center"> 🔭 Welcome to visit our new work <a href="https://github.com/OpenMotionLab/MotionGPT">MotionGPT</a>, a <strong>unified</strong> motion-language model for <strong>multiple motion tasks</strong>.</p>
 
